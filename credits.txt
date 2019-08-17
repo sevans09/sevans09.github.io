@@ -6,6 +6,3 @@ http://www.templatemo.com/tm-498-stimulus
 
 Bootstrap
 http://getbootstrap.com/
-
-Images
-http://startupstockphotos.com/
